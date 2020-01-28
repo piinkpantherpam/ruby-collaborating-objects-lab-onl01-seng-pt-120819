@@ -1,5 +1,3 @@
-require 'pry'
-
 describe 'Song' do
   let(:song) {Song.new('Man in the Mirror')}
   let(:file_name) {'Michael Jackson - Black or White - pop.mp3'}
